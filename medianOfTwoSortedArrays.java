@@ -1,3 +1,8 @@
+/*
+There are two sorted arrays nums1 and nums2 of size m and n respectively.
+
+Find the median of the two sorted arrays.
+*/
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] finalNums = new int[nums1.length + nums2.length];
