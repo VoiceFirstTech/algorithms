@@ -3,8 +3,8 @@ Algorithms completed by Pat Sweetman during Undergrad at the Ohio State Universi
 * Leet Code
 
 ## Languages
-* Java (Main)
-* Python
-* SQL
+* Java (Main) (4 algorithms)
+* Python (2 algorithms)
+* SQL (1 algorithm)
 ## Uses
 This repository should be used as a reference. This does not build, and is not an application. Any attempt to build this as an application will almost certainly fail :)
