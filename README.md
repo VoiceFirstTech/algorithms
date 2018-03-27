@@ -3,7 +3,7 @@ Algorithms completed by Pat Sweetman during Undergrad at the Ohio State Universi
 * Leet Code
 
 ## Languages
-* Java (Main) (5 algorithms)
+* Java (Main) (6 algorithms)
 * Python (2 algorithms)
 * SQL (1 algorithm)
 ## Uses
